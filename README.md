@@ -6,5 +6,5 @@ A Python course exercise introducing numpy including:
 * ndarrays
 * linear algebra with vectors
 * broadcasting and scalars
-* matrix manipulation
+* matrix multiplication
 * manipulating images as ndarrays
